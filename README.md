@@ -11,6 +11,4 @@ Model uses :
 4. Flattening
 5. Fully Connected Layer
 
-Training Accuracy - 95.66%
 
-Testing Accuracy - 97.88%
